@@ -1,0 +1,11 @@
+# Large third-party datasets
+/data/raw/
+*.nc
+*.nc4
+*.parquet
+*.zip
+__pycache__/
+.pytest_cache/
+*.pyc
+.DS_Store
+.venv/
